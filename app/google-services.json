@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "313682443436",
+    "firebase_url": "https://the-greenhouse-6adef-default-rtdb.firebaseio.com",
+    "project_id": "the-greenhouse-6adef",
+    "storage_bucket": "the-greenhouse-6adef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313682443436:android:b54bd9deb76d9e4da7f309",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPSCw3viJzPf3F66rGh6SpdgaTc73foP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
